@@ -21,8 +21,9 @@ This project presents an end-to-end **Healthcare Analytics Dashboard** built usi
 
 ---
 
-## 1.  Business Problem
+## Business Problem
 
+<a id="business-problem"></a>
 Healthcare organizations generate large volumes of operational and clinical data. However, deriving actionable insights from this data is challenging without proper analytics and visualization. The goal of this project is to build an interactive Power BI dashboard that helps hospital administrators:
 
 * Track patient and billing information efficiently
@@ -33,8 +34,9 @@ Healthcare organizations generate large volumes of operational and clinical data
 
 ---
 
-## 2.  Dataset
+## Dataset
 
+<a id="dataset"></a>
 **Dataset Name:** Apollo Healthcare Dataset
 **Format:** Excel (.xlsx)
 **Description:** The dataset contains information related to:
@@ -48,7 +50,9 @@ Healthcare organizations generate large volumes of operational and clinical data
 
 ---
 
-## 3.  Tools & Techniques
+## Tools & Techniques
+
+<a id="tools--techniques"></a> & Techniques
 
 * **Power BI** – Data modeling, DAX, interactive dashboard
 * **Python (Pandas, NumPy)** – Data preprocessing
@@ -58,7 +62,9 @@ Healthcare organizations generate large volumes of operational and clinical data
 
 ---
 
-## 4.  Project Structure
+## Project Structure
+
+<a id="project-structure"></a>
 
 ```
 Apollo-Healthcare-Analytics/
@@ -82,7 +88,9 @@ Apollo-Healthcare-Analytics/
 
 ---
 
-## 5. Data Cleaning & Preparation
+## Data Cleaning & Preparation
+
+<a id="data-cleaning--preparation"></a> & Preparation
 
 * Removed duplicate patient records
 * Handled missing values in billing and diagnosis fields
@@ -92,7 +100,9 @@ Apollo-Healthcare-Analytics/
 
 ---
 
-## 6.  Research Questions & Key Findings
+## Research Questions & Key Findings
+
+<a id="research-questions--key-findings"></a> & Key Findings
 
 ### Research Questions
 
@@ -110,7 +120,9 @@ Apollo-Healthcare-Analytics/
 
 ---
 
-## 7.  Dashboard
+## Dashboard
+
+<a id="dashboard"></a>
 
 ### Key Dashboard Views
 
@@ -121,13 +133,17 @@ Apollo-Healthcare-Analytics/
 5. Diagnosis-wise Statistics
 6. Billing vs Insurance Comparison
 
- **Dashboard Image:**
+📌 **Dashboard Image:**
+![Apollo Healthcare Dashboard](dashboard/apollo_healthcare_dashboard.png)
 
- **Live Power BI Dashboard:**
+🔗 **Live Power BI Dashboard:**
+([https://your-powerbi-dashboard-link](https://your-powerbi-dashboard-link))
 
 ---
 
-## 8. ▶ How to Run This Project
+## How to Run This Project
+
+<a id="how-to-run-this-project"></a> This Project
 
 1. Clone the repository:
 
@@ -142,8 +158,9 @@ git clone https://github.com/yourusername/apollo-healthcare-analytics.git
 
 ---
 
-## 9.  Final Recommendations
+## Final Recommendations
 
+<a id="final-recommendations"></a>
 Based on the dashboard KPIs and trends, the following **business metrics–driven recommendations** are proposed:
 
 **Operational Efficiency**
@@ -174,14 +191,16 @@ Based on the dashboard KPIs and trends, the following **business metrics–drive
 
 ---
 
-##  Author
+## Author
 
+<a id="author"></a>
 **Supriya Kusuma**
 Aspiring Data Analyst | Power BI | SQL | Python | Healthcare Analytics
 
 ---
-##  Contact
+
+## 📬 Contact
 
 * GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://www.linkedin.com/in/supriya-kusuma09/](https://www.linkedin.com/in/yourprofile)
+* LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
 * Email: [supriyakusuma0905@gmail.com](mailto:yourname@email.com)

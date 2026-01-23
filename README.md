@@ -134,7 +134,7 @@ Apollo-Healthcare-Analytics/
 6. Billing vs Insurance Comparison
 
 📌 **Dashboard Image:**
-
+https://github.com/Supriya2098/Apollo-Healthcare-Analytics-Dashboard-Power-BI-/blob/main/apollo_dashboard.png
 🔗 **Live Power BI Dashboard:**
 https://github.com/Supriya2098/Apollo-Healthcare-Analytics-Dashboard-Power-BI-/blob/main/apollo_dashboard.pbix
 

@@ -146,11 +146,39 @@ git clone https://github.com/Supriya2098/apollo-healthcare-analytics.git
 
 ## 9. 📌 Final Recommendations
 
-* Optimize bed allocation based on occupancy trends
-* Improve insurance claim processes to reduce billing gaps
-* Use feedback analytics to enhance doctor performance
-* Monitor high-frequency diagnoses to improve resource planning
+Based on the dashboard KPIs and trends, the following business metrics–driven recommendations are proposed:
 
+Operational Efficiency
+
+Bed Occupancy Rate: Monitor departments with consistently high occupancy (>85%) and plan capacity expansion or patient flow optimization to reduce wait times.
+
+Average Length of Stay (ALOS): Identify diagnoses and departments with higher ALOS to improve care pathways and discharge planning.
+
+Financial Performance
+
+Total Billing vs. Insurance Coverage: Track the Insurance Coverage Ratio (%) to minimize revenue leakage and improve claim approval cycles.
+
+Revenue by Department/Diagnosis: Prioritize high-revenue, high-demand service lines for resource allocation and staffing.
+
+Clinical Quality & Experience
+
+Doctor Feedback Score: Use average feedback and variance to recognize top performers and target training where satisfaction is below benchmarks.
+
+Readmission/Repeat Visits (if available): Monitor to improve treatment effectiveness and patient outcomes.
+
+Demand & Capacity Planning
+
+Admissions by Diagnosis & Time: Use monthly/weekly admission trends to forecast demand and align staffing rosters.
+
+Bed Turnover Rate: Optimize turnover to balance quality care with throughput.
+
+Action Plan (Next 90 Days)
+
+Set targets: Occupancy 75–85%, Insurance Coverage Ratio >90%, Avg. Feedback ≥4.5/5.
+
+Implement monthly KPI review using the Power BI dashboard.
+
+Launch process improvements for high-ALOS diagnoses and low-coverage insurance cases.
 ---
 
 ## 👩‍💼 Author
@@ -163,5 +191,5 @@ Aspiring Data Analyst | Power BI | SQL | Python | Healthcare Analytics
 ## 📬 Contact
 
 * GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/supriya-kusuma09/)
+* LinkedIn: [https://www.linkedin.com/in/supriya-kusuma09/](https://www.linkedin.com/in/yourprofile)
 * Email: [supriyakusuma0905@gmail.com](mailto:yourname@email.com)

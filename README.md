@@ -36,7 +36,7 @@ Healthcare organizations generate large volumes of operational and clinical data
 
 ## Dataset
 
-<a id="dataset"></a>
+<a id="dataset"></a> Dataset
 **Dataset Name:** Apollo Healthcare Dataset
 **Format:** Excel (.xlsx)
 **Description:** The dataset contains information related to:
@@ -52,7 +52,7 @@ Healthcare organizations generate large volumes of operational and clinical data
 
 ## Tools & Techniques
 
-<a id="tools--techniques"></a> & Techniques
+<a id="tools--techniques"></a> Tools & Techniques
 
 * **Power BI** – Data modeling, DAX, interactive dashboard
 * **Python (Pandas, NumPy)** – Data preprocessing
@@ -90,7 +90,7 @@ Apollo-Healthcare-Analytics/
 
 ## Data Cleaning & Preparation
 
-<a id="data-cleaning--preparation"></a> & Preparation
+<a id="data-cleaning--preparation"></a> Data Cleaning & Preparation
 
 * Removed duplicate patient records
 * Handled missing values in billing and diagnosis fields
@@ -134,10 +134,9 @@ Apollo-Healthcare-Analytics/
 6. Billing vs Insurance Comparison
 
 📌 **Dashboard Image:**
-![Apollo Healthcare Dashboard](dashboard/apollo_healthcare_dashboard.png)
 
 🔗 **Live Power BI Dashboard:**
-([https://your-powerbi-dashboard-link](https://your-powerbi-dashboard-link))
+
 
 ---
 
@@ -202,5 +201,5 @@ Aspiring Data Analyst | Power BI | SQL | Python | Healthcare Analytics
 ## 📬 Contact
 
 * GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+* LinkedIn: [linkedin.com/in/supriya-kusuma09/](https://www.linkedin.com/in/yourprofile)
 * Email: [supriyakusuma0905@gmail.com](mailto:yourname@email.com)

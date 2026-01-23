@@ -202,6 +202,6 @@ Aspiring Data Analyst | Power BI | SQL | Python | Healthcare Analytics
 
 ## 📬 Contact
 
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+* GitHub: [https://github.com/Supriya2098](https://github.com/yourusername)
 * LinkedIn: [linkedin.com/in/supriya-kusuma09/](https://www.linkedin.com/in/yourprofile)
 * Email: [supriyakusuma0905@gmail.com](mailto:yourname@email.com)

@@ -8,16 +8,16 @@ This project presents an end-to-end **Healthcare Analytics Dashboard** built usi
 
 ## 📑 Table of Contents
 
-1. [Business Problem](#1-🏥-business-problem)
-2. [Dataset](#2-📊-dataset)
-3. [Tools & Techniques](#3-🛠-tools--techniques)
-4. [Project Structure](#4-📁-project-structure)
-5. [Data Cleaning & Preparation](#5-🧹-data-cleaning--preparation)
-6. [Research Questions & Key Findings](#6-🔍-research-questions--key-findings)
-7. [Dashboard](#7-📈-dashboard)
-8. [How to Run This Project](#8-▶-how-to-run-this-project)
-9. [Final Recommendations](#9-📌-final-recommendations)
-10. [Author & Contact](#-author)
+1. [Business Problem](#business-problem)
+2. [Dataset](#dataset)
+3. [Tools--Techniques](#tools--techniques)
+4. [Project Structure](#project-structure)
+5. [Data Cleaning & Preparation](#data-cleaning--preparation)
+6. [Research Questions & Key Findings](#research-questions--key-findings)
+7. [Dashboard](#dashboard)
+8. [How to Run This Project](#how-to-run-this-project)
+9. [Final Recommendations](#final-recommendations)
+10. [Author](#author)
 
 ---
 
@@ -123,9 +123,7 @@ Apollo-Healthcare-Analytics/
 
 📌 **Dashboard Image:**
 
-
 🔗 **Live Power BI Dashboard:**
-
 
 ---
 
@@ -134,7 +132,7 @@ Apollo-Healthcare-Analytics/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Supriya2098/apollo-healthcare-analytics.git
+git clone https://github.com/yourusername/apollo-healthcare-analytics.git
 ```
 
 2. Open Power BI Desktop
@@ -146,39 +144,34 @@ git clone https://github.com/Supriya2098/apollo-healthcare-analytics.git
 
 ## 9. 📌 Final Recommendations
 
-Based on the dashboard KPIs and trends, the following business metrics–driven recommendations are proposed:
+Based on the dashboard KPIs and trends, the following **business metrics–driven recommendations** are proposed:
 
-Operational Efficiency
+**Operational Efficiency**
 
-Bed Occupancy Rate: Monitor departments with consistently high occupancy (>85%) and plan capacity expansion or patient flow optimization to reduce wait times.
+* **Bed Occupancy Rate:** Monitor departments with consistently high occupancy (>85%) and plan capacity expansion or patient flow optimization to reduce wait times.
+* **Average Length of Stay (ALOS):** Identify diagnoses and departments with higher ALOS to improve care pathways and discharge planning.
 
-Average Length of Stay (ALOS): Identify diagnoses and departments with higher ALOS to improve care pathways and discharge planning.
+**Financial Performance**
 
-Financial Performance
+* **Total Billing vs. Insurance Coverage:** Track the **Insurance Coverage Ratio (%)** to minimize revenue leakage and improve claim approval cycles.
+* **Revenue by Department/Diagnosis:** Prioritize high-revenue, high-demand service lines for resource allocation and staffing.
 
-Total Billing vs. Insurance Coverage: Track the Insurance Coverage Ratio (%) to minimize revenue leakage and improve claim approval cycles.
+**Clinical Quality & Experience**
 
-Revenue by Department/Diagnosis: Prioritize high-revenue, high-demand service lines for resource allocation and staffing.
+* **Doctor Feedback Score:** Use average feedback and variance to recognize top performers and target training where satisfaction is below benchmarks.
+* **Readmission/Repeat Visits (if available):** Monitor to improve treatment effectiveness and patient outcomes.
 
-Clinical Quality & Experience
+**Demand & Capacity Planning**
 
-Doctor Feedback Score: Use average feedback and variance to recognize top performers and target training where satisfaction is below benchmarks.
+* **Admissions by Diagnosis & Time:** Use monthly/weekly admission trends to forecast demand and align staffing rosters.
+* **Bed Turnover Rate:** Optimize turnover to balance quality care with throughput.
 
-Readmission/Repeat Visits (if available): Monitor to improve treatment effectiveness and patient outcomes.
+**Action Plan (Next 90 Days)**
 
-Demand & Capacity Planning
+* Set targets: Occupancy 75–85%, Insurance Coverage Ratio >90%, Avg. Feedback ≥4.5/5.
+* Implement monthly KPI review using the Power BI dashboard.
+* Launch process improvements for high-ALOS diagnoses and low-coverage insurance cases.
 
-Admissions by Diagnosis & Time: Use monthly/weekly admission trends to forecast demand and align staffing rosters.
-
-Bed Turnover Rate: Optimize turnover to balance quality care with throughput.
-
-Action Plan (Next 90 Days)
-
-Set targets: Occupancy 75–85%, Insurance Coverage Ratio >90%, Avg. Feedback ≥4.5/5.
-
-Implement monthly KPI review using the Power BI dashboard.
-
-Launch process improvements for high-ALOS diagnoses and low-coverage insurance cases.
 ---
 
 ## 👩‍💼 Author
@@ -187,7 +180,6 @@ Launch process improvements for high-ALOS diagnoses and low-coverage insurance c
 Aspiring Data Analyst | Power BI | SQL | Python | Healthcare Analytics
 
 ---
-
 ## 📬 Contact
 
 * GitHub: [https://github.com/yourusername](https://github.com/yourusername)

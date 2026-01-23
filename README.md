@@ -21,7 +21,7 @@ This project presents an end-to-end **Healthcare Analytics Dashboard** built usi
 
 ---
 
-## 1. 🏥 Business Problem
+## 1.  Business Problem
 
 Healthcare organizations generate large volumes of operational and clinical data. However, deriving actionable insights from this data is challenging without proper analytics and visualization. The goal of this project is to build an interactive Power BI dashboard that helps hospital administrators:
 
@@ -33,7 +33,7 @@ Healthcare organizations generate large volumes of operational and clinical data
 
 ---
 
-## 2. 📊 Dataset
+## 2.  Dataset
 
 **Dataset Name:** Apollo Healthcare Dataset
 **Format:** Excel (.xlsx)
@@ -48,7 +48,7 @@ Healthcare organizations generate large volumes of operational and clinical data
 
 ---
 
-## 3. 🛠 Tools & Techniques
+## 3.  Tools & Techniques
 
 * **Power BI** – Data modeling, DAX, interactive dashboard
 * **Python (Pandas, NumPy)** – Data preprocessing
@@ -58,7 +58,7 @@ Healthcare organizations generate large volumes of operational and clinical data
 
 ---
 
-## 4. 📁 Project Structure
+## 4.  Project Structure
 
 ```
 Apollo-Healthcare-Analytics/
@@ -82,7 +82,7 @@ Apollo-Healthcare-Analytics/
 
 ---
 
-## 5. 🧹 Data Cleaning & Preparation
+## 5. Data Cleaning & Preparation
 
 * Removed duplicate patient records
 * Handled missing values in billing and diagnosis fields
@@ -92,7 +92,7 @@ Apollo-Healthcare-Analytics/
 
 ---
 
-## 6. 🔍 Research Questions & Key Findings
+## 6.  Research Questions & Key Findings
 
 ### Research Questions
 
@@ -110,7 +110,7 @@ Apollo-Healthcare-Analytics/
 
 ---
 
-## 7. 📈 Dashboard
+## 7.  Dashboard
 
 ### Key Dashboard Views
 
@@ -121,9 +121,9 @@ Apollo-Healthcare-Analytics/
 5. Diagnosis-wise Statistics
 6. Billing vs Insurance Comparison
 
-📌 **Dashboard Image:**
+ **Dashboard Image:**
 
-🔗 **Live Power BI Dashboard:**
+ **Live Power BI Dashboard:**
 
 ---
 
@@ -142,7 +142,7 @@ git clone https://github.com/yourusername/apollo-healthcare-analytics.git
 
 ---
 
-## 9. 📌 Final Recommendations
+## 9.  Final Recommendations
 
 Based on the dashboard KPIs and trends, the following **business metrics–driven recommendations** are proposed:
 
@@ -174,13 +174,13 @@ Based on the dashboard KPIs and trends, the following **business metrics–drive
 
 ---
 
-## 👩‍💼 Author
+##  Author
 
 **Supriya Kusuma**
 Aspiring Data Analyst | Power BI | SQL | Python | Healthcare Analytics
 
 ---
-## 📬 Contact
+##  Contact
 
 * GitHub: [https://github.com/yourusername](https://github.com/yourusername)
 * LinkedIn: [https://www.linkedin.com/in/supriya-kusuma09/](https://www.linkedin.com/in/yourprofile)

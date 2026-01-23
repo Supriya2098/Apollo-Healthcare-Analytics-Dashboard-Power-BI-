@@ -136,7 +136,7 @@ Apollo-Healthcare-Analytics/
 📌 **Dashboard Image:**
 
 🔗 **Live Power BI Dashboard:**
-
+https://github.com/Supriya2098/Apollo-Healthcare-Analytics-Dashboard-Power-BI-/blob/main/apollo_dashboard.pbix
 
 ---
 

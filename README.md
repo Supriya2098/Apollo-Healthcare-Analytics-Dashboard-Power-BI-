@@ -37,8 +37,8 @@ Healthcare organizations generate large volumes of operational and clinical data
 ## Dataset
 
 <a id="dataset"></a> Dataset
-**Dataset Name:** Apollo Healthcare Dataset\n
-**Format:** Excel (.xlsx)\n
+**Dataset Name:** Apollo Healthcare Dataset <br>
+**Format:** Excel (.xlsx) <br>
 **Description:** The dataset contains information related to:
 
 * Patient details
